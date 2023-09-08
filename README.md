@@ -3,3 +3,7 @@
 We collect every unique number to how frequent it is in the input list.
 Then we sort descending and return the top k results.
 With the a bit complicated return statement we save a little memory.
+
+Runtime: Beats 92.74%
+
+Memory: Beats 66.61%
